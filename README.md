@@ -6,11 +6,11 @@ El Sr. Juan necesita decidir qué tienda de su cadena Alura Store debe vender pa
 ### Desarrollo
 1. Obteniendo y comparando los ingresos total de cada tienda. Como se pude observar en la grafica, la tienda con menores ingresos en la tienda numero 4 con un total de $1038375700.0 de ingresos dado un porcentaje de 23.6 % en base a el 100% de ingresos
 
-    ![image.png](attachment:image.png)
+    ![alt text](image-1.png)
 
 2. Tomando en cuenta la calificación promedio de las tiendas podemos observar que incluso su calificación no se encuentra muy por encima de la tienda numero uno que representa la tienda con la calificación un poco mas baja. Asi que este factor puede no ser tan importante en este caso.
 
-    ![image-2.png](attachment:image-2.png)
+    ![alt text](image.png)
 
 3. En la siguientes gráficas podemos observar la cantidad de ingresos que genera cada categoría por tienda. Analizando estos datos podemos observar que existen categorías como Muebles, Artículos para el hogar y juguetes que son un poco mas demandadas en la tienda 4 en comparación en las tiendas 1 y 2.
 ---
@@ -19,7 +19,7 @@ El Sr. Juan necesita decidir qué tienda de su cadena Alura Store debe vender pa
 
 > *Tomando esto en cuenta podríamos llegar a decir que seria una **mala decision** vender la tienda 4 en comparación a la demanda de los productos*
 
-![image-3.png](attachment:image-3.png)
+![alt text](image-3.png)
 
 En la siguiente gráfica de calor en basado en las ubicaciones geográficas donde mas se realizan las compras, podemos observar que todas las tiendas tienes el mismo **patron de ventas**. 
 
@@ -33,7 +33,7 @@ Esto nos permite tener la siguiente opinion.
 Esto debido a que independientemente de la tienda donde los clientes deciden comprar todas las ubicaciones son las mismas. 
 
 **Mapa de calor de las zonas geográficas**
-![image-4.png](attachment:image-4.png)
+![alt text](image-2.png)
 
 ### Resultado
 
